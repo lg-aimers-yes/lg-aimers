@@ -1,2 +1,3 @@
 # lg-aimers
-4기 lg aimers YES
+
+M 4기 lg aimers YES
